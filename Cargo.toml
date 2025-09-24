@@ -3,5 +3,6 @@ license-file = "LICENSE"
 name = "retort"
 version = "0.1.0"
 edition = "2024"
+description = "This is a flask like blocking webserver with minimal dependencies"
 
 [dependencies]
